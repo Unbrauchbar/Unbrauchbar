@@ -1,6 +1,4 @@
-%PDF-1.3
-%���� ReportLab Generated PDF document http://www.reportlab.com
-1 0 
+
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -62,13 +60,11 @@
 
     <p style="margin-top: 2rem;">Oder lies es direkt hier:</p>
 
-    <pre>
-//:UNBR – MANIFEST
+    <pre>//:UNBR - MANIFEST
 
 Titel: Unbrauchbar
 
-[...hier könntest du den Manifesttext einfügen, wenn du es direkt anzeigen willst...]
-    </pre>
+[Text bereits vollstandig im Dokument, wird hier angenommen als bekannt]</pre>
 
     <footer>
         Kein Impressum. Kein Tracking. Keine Antwort.<br>
@@ -76,69 +72,3 @@ Titel: Unbrauchbar
     </footer>
 </body>
 </html>
-obj
-<<
-/F1 2 0 R
->>
-endobj
-2 0 obj
-<<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
->>
-endobj
-3 0 obj
-<<
-/Contents 7 0 R /MediaBox [ 0 0 419.5276 595.2756 ] /Parent 6 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
->>
-endobj
-4 0 obj
-<<
-/PageMode /UseNone /Pages 6 0 R /Type /Catalog
->>
-endobj
-5 0 obj
-<<
-/Author (anonymous) /CreationDate (D:20250701101315+00'00') /Creator (ReportLab PDF Library - www.reportlab.com) /Keywords () /ModDate (D:20250701101315+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (unspecified) /Title (untitled) /Trapped /False
->>
-endobj
-6 0 obj
-<<
-/Count 1 /Kids [ 3 0 R ] /Type /Pages
->>
-endobj
-7 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 234
->>
-stream
-Garp$:CDb>&;T4kTAk'r.!85t\g8'oeY/j=FBED/9m;;6qt'?A.-sb=bi+7gL;@Y[]lpE+R,BS6Qk)61"\o&$@8<@hpKlZo.si?D4G7/,pea!T.<Jj>ZJWT)%'cCAQAbR!HCtYEs20gulUY2V:9`?,iR]n^\G>U+W-&=X%uWgm+`33C<L1&SqBRjfKiqD\Q-a])]/1nr;AaAD$!jMWK9p^*$a-m#IXOTH#rUF/>6~>endstream
-endobj
-xref
-0 8
-0000000000 65535 f 
-0000000073 00000 n 
-0000000104 00000 n 
-0000000211 00000 n 
-0000000414 00000 n 
-0000000482 00000 n 
-0000000778 00000 n 
-0000000837 00000 n 
-trailer
-<<
-/ID 
-[<22cd62bf46e0ccff261be0c1d009158c><22cd62bf46e0ccff261be0c1d009158c>]
-% ReportLab generated PDF document -- digest (http://www.reportlab.com)
-
-/Info 5 0 R
-/Root 4 0 R
-/Size 8
->>
-startxref
-1161
-%%EOF
